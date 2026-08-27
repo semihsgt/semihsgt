@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Semih 👋</h1>
+<h1 align="center">Hey there, I'm Semih 👋</h1>
 
 <p align="center">
   <b>Junior iOS Developer</b> · Kocaeli, Türkiye (UTC+3)
