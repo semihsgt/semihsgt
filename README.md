@@ -6,9 +6,8 @@
 
 I build iOS apps end-to-end in SwiftUI with Swift 6 strict concurrency, MVVM and protocol-oriented service layers. I care about readable code, structure that survives a second feature, and shipping something that actually works on a real device. Currently preparing my first app for App Store release.
 
-- 🔭 **Latest build:** [Movie Mind](https://github.com/semihsgt/MovieMindApp_SwiftUI) — AI-powered discovery for movies, TV shows and people, with every suggestion grounded in real TMDB data.
+- 🔭 **Latest build:** [Movie Mind](https://github.com/semihsgt/MovieMindApp_SwiftUI)
 - 🎓 **Associate Degree in Computer Programming** — Kocaeli University (2024 – 2026)
-- 📜 **Courses:** [Portfolio Project](https://seanallen.teachable.com/p/portfolio-project) (Sean Allen) · SwiftUI ile iOS Mobil Geliştirme (BTK Akademi)
 - 🌍 **Languages:** Turkish (native) · English (B2, EF SET certified)
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/semihsogut/) · semihsogut.dev@gmail.com
 
@@ -24,25 +23,15 @@ I build iOS apps end-to-end in SwiftUI with Swift 6 strict concurrency, MVVM and
 
 An AI-powered app for discovering movies, TV shows and people. Gemini proposes titles; TMDB decides what is real.
 
-- **AI that can't hallucinate.** Gemini returns titles under a JSON `responseSchema`, each resolved against TMDB search and year-matched, so no invented IDs, posters or ratings ever reach the UI.
-- **`@Fallback` property wrapper.** TMDB omits fields freely. A custom wrapper plus a `KeyedDecodingContainer.decode` overload absorbs missing, null and mistyped values — 60 of 107 decoded properties stay non-optional and the views stopped unwrapping.
-- **Actors and narrow protocols.** MVVM over an `actor NetworkManager` and per-use-case protocols, with a generic `ViewState<T>` enum that makes conflicting loading and error states unrepresentable.
-- Value-based navigation with zoom transitions, image prefetching and disk caching, an offline SwiftData library, pagination, debounced search, VoiceOver, DocC documentation and Swift Testing unit tests.
-
 ### 🌤 [Atlas Weather](https://github.com/semihsgt/AtlasWeatherApp_SwiftUI)
 
 <sub>`SwiftUI` · `Swift 6` · `MVVM` · `CoreLocation` · `MapKit` · `OpenWeatherMap` · `EN/TR localization`</sub>
 
 A native weather app where every location also opens onto the country behind it: facts, photos, the capital on a map.
 
-- **One generic request path.** A single `request<T: Decodable>(baseURL:path:queryItems:)` function maps 4xx/5xx onto typed errors and serves all three APIs.
-- **A timeline built from two shapes.** Flat hourly forecasts and separate sunrise/sunset timestamps merge into one `TimelineItem` enum keyed by timestamp, so sunrise renders in place inside the 24-hour scroll.
-- **Failures stay local.** With `async let`, one failed forecast degrades a single card instead of the whole screen; a 401 is cached per endpoint and shown as locked rather than broken.
-- **Sky colours follow the sun.** A four-phase gradient derived from each location's own sunrise, sunset and observation timestamps, with a fallback for short polar days.
-
 ### Other projects
 
-Flutter and web work, including an internship project built on the TMDB API — see the [repository list](https://github.com/semihsgt?tab=repositories).
+Flutter and web work, including an internship project built on the TMDB API. See the [repository list](https://github.com/semihsgt?tab=repositories).
 
 ---
 
