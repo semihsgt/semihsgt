@@ -11,11 +11,11 @@ I build iOS apps end-to-end in SwiftUI with Swift 6 strict concurrency, MVVM and
 - 🌍 **Languages:** Turkish (native) · English (B2, EF SET certified)
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/semihsogut/) · semihsogut.dev@gmail.com
 
-<img width="4500" height="2531" alt="readme_png copy" src="https://github.com/user-attachments/assets/a0f0fbac-bc92-4a42-bd21-92f03615bd6c" />
-
 ---
 
 ## 📱 Projects
+
+<img width="4500" height="2531" alt="readme_png copy" src="https://github.com/user-attachments/assets/a0f0fbac-bc92-4a42-bd21-92f03615bd6c" />
 
 ### [Movie Mind](https://github.com/semihsgt/MovieMindApp_SwiftUI)
 
