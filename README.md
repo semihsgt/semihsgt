@@ -50,7 +50,7 @@ React Native, Web and Flutter projects.
 
 ## 🤝 Let's connect
 
-I'm open to **junior iOS roles and internships**. If you're working on something interesting in Swift, I'd love to hear about it.
+I'm open to junior iOS roles. If you're working on something interesting in Swift, I'd love to hear about it.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/semihsogut/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:semihsogut.dev@gmail.com)
