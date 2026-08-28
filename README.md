@@ -17,21 +17,21 @@ I build iOS apps end-to-end in SwiftUI with Swift 6 strict concurrency, MVVM and
 
 ## 📱 Projects
 
-### 🎬 [Movie Mind](https://github.com/semihsgt/MovieMindApp_SwiftUI)
+### [Movie Mind](https://github.com/semihsgt/MovieMindApp_SwiftUI)
 
 <sub>`SwiftUI` · `Swift 6` · `SwiftData` · `Gemini API` · `TMDB API` · `Swift Testing` · `DocC`</sub>
 
 An AI-powered app for discovering movies, TV shows and people. Gemini proposes titles; TMDB decides what is real.
 
-### 🌤 [Atlas Weather](https://github.com/semihsgt/AtlasWeatherApp_SwiftUI)
+### [Atlas Weather](https://github.com/semihsgt/AtlasWeatherApp_SwiftUI)
 
 <sub>`SwiftUI` · `Swift 6` · `MVVM` · `CoreLocation` · `MapKit` · `OpenWeatherMap` · `EN/TR localization`</sub>
 
 A native weather app where every location also opens onto the country behind it: facts, photos, the capital on a map.
 
-### Other projects
+### [Other projects](https://github.com/semihsgt?tab=repositories)
 
-Flutter and web work, including an internship project built on the TMDB API. See the [repository list](https://github.com/semihsgt?tab=repositories).
+React Native, Web and Flutter projects.
 
 ---
 
